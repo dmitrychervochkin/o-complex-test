@@ -32,7 +32,7 @@ src/
 ├── components/         # Компоненты приложения (Products, Reviews, Busket и т.д.)
 ├── reducers/           # Redux-слайсы (busketReducer.ts)
 ├── api/                # API-функции для получения данных с сервера
-├── styles/             # SCSS-стили
+├── utils/             	# Функциональные утилиты 
 ├── App.tsx             # Основной компонент приложения
 └── main.tsx            # Точка входа
 ```
